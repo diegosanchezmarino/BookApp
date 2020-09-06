@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BookApplication</string>
+
+
+    <string name="error_title">Error</string>
+    <string name="error_message">No se pudieron obtener datos</string>
+    <string name="retry">Reintentar</string>
+
+
+
+
+    <string name="volume24">Volume (24H)</string>
+    <string name="bid_price">Bid Price</string>
+    <string name="ask_price">Ask Price</string>
+    <string name="day_low">Day Low</string>
+    <string name="day_high">Day High</string>
+    <string name="spread">Spread</string>
+    <string name="unknown_value">NaN</string>
+
+
+
+
+
+</resources>
